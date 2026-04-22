@@ -38,3 +38,4 @@ Companion website for the Learning TypeScript book.
 # guard against empty input
 # clarify the control flow
 # match the style used in the rest of the module
+# keep defaults in sync with the manifest
